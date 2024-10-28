@@ -1,8 +1,21 @@
-# React + Vite
+# Text Speech Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and user-friendly web application that converts text to speech using the Web Speech API. Users can select from different voice options and listen to the spoken text.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Text Input**: Type or paste text into a text area.
+- **Voice Selection**: Choose from a list of available voices.
+- **Text-to-Speech**: Click a button to hear the spoken text.
+- **Responsive Design**: Works on both desktop and mobile devices.
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Web Speech API
+
+## Live Demo
+
+You can view the live version of the project [here](https://text-to-speech-generator-five.vercel.app/).
+
